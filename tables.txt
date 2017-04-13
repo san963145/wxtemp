@@ -1,0 +1,15 @@
+1. admin 
+userID   password
+
+2. paper
+paperID, title,userID
+
+3. question
+questionID,sequence,content,itemA,itemB,itemC,itemD,itemE,itemF,type,paperID
+
+4. finishedList
+paperID,openID
+
+5. answer
+questionID,openID,answer
+
